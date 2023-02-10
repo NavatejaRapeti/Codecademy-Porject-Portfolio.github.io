@@ -1,2 +1,2 @@
-# Navateja.Rapeti.github.io
+Codecademy Project Portfolio.github.io
  My First GIthub Portfolio Website
